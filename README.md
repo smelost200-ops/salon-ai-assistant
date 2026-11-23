@@ -22,8 +22,8 @@ Telegram-бот, который принимает записи клиентов
 ## Установка и запуск
 
 ```bash
-git clone <git clone https://github.com/smelost200-ops/salon-ai-assistant.git>
-cd salon-bot
+git clone https://github.com/smelost200-ops/salon-ai-assistant.git
+cd salon-ai-assistant
 
 # создать .env по образцу:
 TELEGRAM_BOT_TOKEN=<токен от BotFather>
@@ -61,6 +61,6 @@ python salon_bot.py
 
 ## Автор
 
-Николай Качаев — разработчик, самозанятый (НПД). Telegram: Telegram: @NikolayAlekc
+Николай Качаев — разработчик, самозанятый (НПД). Telegram: @NikolayAlekc
 
 Выпускной проект курса ZeroCoder («практическое обучение по нейросетям»), ноябрь 2026.
